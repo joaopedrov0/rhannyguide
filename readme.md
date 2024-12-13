@@ -12,6 +12,10 @@ Esse projeto foi iniciado com o intuito especialmente de servir como guia em um 
 
 Em breve, conforme os conteúdos forem sendo disponibilizados, as explicações à cerca da organização de pastas será disponibilizada aqui.
 
+### Preparando o ambiente
+
+Nesse módulo você vai conhecer as ferramentas que podem te acompanhar durante essa jornada e que serão muito úteis, como editores de código, ferramentas de versionamento e outras utilidades.
+
 ### Introdução a Programação
 
 Nesse módulo você vai encontrar conteúdos de introdução a programação, portanto vai ser um guia de uma linguagem específica que vai explicar detalhadamente como funciona tanto a sintaxe da linguagem quanto a lógica de programação!
