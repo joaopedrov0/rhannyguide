@@ -4,7 +4,7 @@ Nosso primeiro objetivo, é conseguir alcançar o seu primeiro "Hello World", qu
 
 > O "Hello World" não tem nada de complicado que você precise entender, trata-se de exibir a mensagem "Hello World" em algum lugar, utilizando os recursos que a linguagem em questão nos disponibiliza. Em Python, por exemplo, poderemos fazer isso na linha de comando!
 
-## Instação
+## Instalação
 
 <!-- [texto](link) -->
 
