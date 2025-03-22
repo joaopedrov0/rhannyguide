@@ -39,4 +39,4 @@ Já sabe programar em linguagem ABC mas quer aprender XYZ? Então você está no
 
 ### Extras
 
-Nesse módulo você vai encontrar créditos dos contribuidores, algumas dicas extrar e curiosidades.
+Nesse módulo você vai encontrar créditos dos contribuidores, algumas dicas extras e curiosidades.
